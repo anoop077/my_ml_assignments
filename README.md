@@ -1,1 +1,1 @@
-# my_python_project
+# my_ml_project
